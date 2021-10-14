@@ -1,0 +1,30 @@
+"NAME"  - this is the name of the player          
+"CONTRACT_START" -- the year that the contract started
+"CONTRACT_END"   -- the last year of the contract
+"AVG_SALARY"     -- the average salary, per year, for the duration of the contract
+"AGE"            -- the player's age
+"GP"             -- number of games played in the previous season (season before the contract was signed)
+"W"              -- number of Wins for the player's team in the previous season
+"L"              -- number of Losses for the player's team in the previous season
+"MIN"            -- total number of total minutes played by the player in the previous season
+"PTS"            -- total number of points scored by the players in the previous season
+"FGM"            -- number of field goals made by the player in the previous season.  A field goal is a "regular" shot in basketball
+"FGA"            -- number of field goals attempted by the player in the previous season.
+"FG."            -- percentage of field goals made by the player in the previous season.
+"X3PM"           -- 3-point field goals made by the player in the previous season. (these shots are taken from far away, and are worth one more point than a shot from a closer range)
+"X3PA"           -- 3 point field goals attempted by the player in the previous season
+"X3P."           -- percentage of 3-point field goals converted by the player in the previous season
+"FTM"            -- free throws made in the previous season (a free throw is worth 1 point, and is not contested)
+"FTA"            -- free throws attempted in the previous season
+"FT."            -- free throw percentage in the previous season
+"OREB"           -- offensive rebounds in the previous season (this occurs when a player on one's own team attempts a shot, and misses, but the player grabs the ball, so his team retains possession
+"DREB"           -- defensive rebounds in the previous season (same as above, but when the shot comes from the other team)
+"REB"            -- total rebounds in the previous season
+"AST"            -- total assists in the previous season (passes to another player on one's own team, who subsequently scores)
+"TOV"            -- total turnovers in the previous season (times when a player loses the ball and the other team recovers)
+"STL"            -- total steals in the previous season (times when the player takes the ball away from the other team)
+"BLK"            -- total blocked shots in the previous season (times when the player prevents the other team from scoring)
+"PF"             -- total personal fouls made the player in the previous season (when a player illegally prevents an opponent from taking some action)
+"X..."  	 -- the player's "plus/minus" score from the previous season (total points by the player's team when the player is ON the court, minus the total points scored by opponent when player is ON the court)
+
+** If any definitions here do not seem clear, please ask about this during office hours and/or during class.  
